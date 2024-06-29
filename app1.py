@@ -2,6 +2,7 @@ import streamlit as st
 import pickle as pkl
 import numpy as np
 import pandas as pd
+from sklearn.ensemble import RandomForestClassifier
 # import sklearn 
 # Load the data
 df_1 = pd.read_csv('first_telc.csv')
