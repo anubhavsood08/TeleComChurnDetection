@@ -41,6 +41,11 @@ The app allows users to input customer data, such as tenure, monthly charges, an
     streamlit run app1.py
 2. Open your web browser and navigate to http://localhost:8501 to use the app.
 
+## Streamlit App
+
+You can interact with the model and visualize the results using the Streamlit app deployed [here](https://share.streamlit.io/app/telechurn8/).
+
+
 ## File Structure
 
 - **app1.py**: The main Streamlit app file.
